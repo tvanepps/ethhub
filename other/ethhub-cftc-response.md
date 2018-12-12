@@ -10,21 +10,21 @@ _**From the CFTC: In providing your responses, please be as specific as possible
 
 It's first vitally important to distinguish between Ether and Ethereum. Ethereum is an open-source, blockchain-based computing system. Leveraging smart contract \(scripting\) technology, anyone is able to build and deploy decentralized applications on top of Ethereum. This is very attractive for development because you are able to create programs that run exactly as programmed, trustlessly and with no down time.
 
-Ether is the fundamental cryptocurrency used on the Ethereum network. It is used to compensate miners for performing transactions on the network. Ether also has many other use cases such as money, store of value and value transfer.
+Ether is the fundamental cryptocurrency used on the Ethereum network. It is used to compensate miners for facilitating transactions on the network. Ether also has many other use cases such as money, store of value and value transfer.
 
 ### 2. What are the current functionalities and capabilities of Ether and the Ethereum Network as compared to the functionalities and capabilities of Bitcoin?
 
-Bitcoin and Ethereum are currently both secured by a Proof of Work blockchain. However, the core difference is that Ethereum has smart contract functionality that allows for the development and deployment of decentralized applications.
+Bitcoin and Ethereum are currently both secured by a Proof of Work blockchain. However, the core difference is that Ethereum has smart contract functionality that allows for the development and deployment of decentralized applications. Ethereum is also able to support a higher rate of Transactions per Second (TPS) roughly 14 TPS as compared to Bitcoin's 7 TPS.
 
 The functionality of the underlying asset Ether is actually very similar to Bitcoin.
 
 ### 3. How is the developer community currently utilizing the Ethereum Network? More specifically, what are prominent use cases or examples that demonstrate the functionalities and capabilities of the Ethereum Network?
 
-The simplest use case of the Ethereum network is value transfer by sending Ether \(which has an attached value\) from one person to another. However, the amount of applications being built on top of the program is growing at a rapid pace. Currently, the most active applications are those related to "Decentralized Finance". As of 12/11/18, there is currently $120,000,000 worth of Ether being used in Decentralized Finance applications.
+The simplest use case of the Ethereum network is value transfer by sending Ether \(which has an attached value\) from one person to another. However, the number of applications being built on top of the network is growing at a rapid pace. Currently, the most active applications are those related to "Decentralized Finance". As of 12/11/18, there is currently $120,000,000 worth of Ether being used in Decentralized Finance applications.
 
 ### 4. Are there any existing or developing commercial enterprises that are using Ether to power economic transactions? If so, how is Ether recorded for accounting purposes in a comprehensive set of financial statements?
 
-The Enterprise Ethereum Alliance is a large group of commercial enterprises decidated to building out standards for Enterprise Ethereum.
+The Enterprise Ethereum Alliance is a large group of commercial enterprises dedicated to building out standards for Enterprise Ethereum.
 
 ### 5. What data sources, analyses, calculations, variables, or other factors could be used to determine Ether’s market size, liquidity, trade volume, types of traders, ownership concentration, and/or principal ways in which the Ethereum Network is currently being used by market participants?
 
@@ -66,7 +66,7 @@ There are different types of Proof of Stake \(PoS\).
 
 DPoS - Delegated Proof of Stake LPoS - Liquid Proof of Stake Casper FFG \(friendly finality gadget\)
 
-DPoS has inherent flaws as it tends to centralize the system over time \(what is commonly referred to as “cartels”\). One such example of this happening is with the EOS blockchain. The EOS system employs the use of DPoS and selects 21 ‘block producers’ to secure the network. These block producers are voted in and out by EOS token holders. The goal of the system is to have a sort of ‘democratic’ process in which people can use their EOS tokens to vote in “good actors” and vote out “bad actors”. Unfortunately, DPoS is a honeypot for cartel formation \(and we’ve already seen reports about EOS block producers colluding with each other\).
+DPoS has inherent flaws as it tends to centralize the system over time \(what is commonly referred to as “cartels”\). One such example of this happening is with the EOS blockchain. The EOS system employs the use of DPoS and selects 21 ‘block producers’ to secure the network. These block producers are voted in and out by EOS token holders. The goal of the system is to have a sort of ‘democratic’ process in which people can use their EOS tokens to vote in “good actors” and vote out “bad actors”. Unfortunately, DPoS is a honeypot for cartel formation \(and we’ve already seen reports about EOS block producers colluding with each other\). \(see Lisk for another example of cartelization\)
 
 There are currently multiple projects that employ the Proof of Stake consensus mechanism.
 
@@ -74,11 +74,11 @@ Ethereums Proof of Stake mechanism \(codenamed Casper FFG and Casper CBC\) is fu
 
 ### 10. Relative to a proof of work consensus mechanism does proof of stake have particular vulnerabilities, challenges, or features that make it prone to manipulation? In responding consider, for example, that under a proof of stake consensus mechanism, the chance of validating a block may be proportional to staked wealth.
 
-Ethereum Proof of Stake will function on the basis of validators, each of which will stake 32 Ether. Users are able to run multiple validators but their computing cost will increase as well. A validator will be randomly chosen to propose a block and then a committee of users \(at least 111\) will vote to say if that validator acted properly. If so, the block will be validated and the validator rewards. If not, the validator's deposit will be slashed and be lost. If an attacker gained 51% of all Ether they could attempt to attack the network but mechanisms in place make it likely that they will still be slashed. At current Ether price, this attacker would be risking $4,300,000,000 to do so and if caught could lose it all. The cost to aquire 51% of the Bitcoin has rate is much less.
+Ethereum Proof of Stake will function on the basis of validators, each of which will stake 32 Ether. Users are able to run multiple validators but their computing cost will increase as well. A validator will be randomly chosen to propose a block and then a committee of users \(at least 111\) will vote to say if that validator acted properly. If so, the block will be validated and the validator rewards. If not, the validator's deposit will be slashed and be lost. If an attacker gained 51% of all Ether they could attempt to attack the network but mechanisms in place make it likely that they will still be slashed. At current Ether price, this attacker would be risking $4,300,000,000 to do so and if caught could lose it all. The cost to aquire 51% of the Bitcoin hash rate is much less.
 
 ### 11. There are reports of disagreements within the Ether community over the proposed transition to a proof of stake consensus model. Could this transition from a proof of work to a proof of stake verification process result in a fragmented or diminished Ether market if the disagreements are not resolved?
 
-The roadmap and community consensus is very clear when it comes to wanting to switch to proof of stake. There are active conversations occuring about the logistics and mechanisms of the proof of stake transition but wanting to stay on proof of work is not something actively discussed. At any point, a user can attempt to fork or stay on the current proof of work chain but the incentive will be very little once proof of stake is live because the users of the network gain many benefits from Eth 2.0 chain which will include proof of stake. These include: scalability, lower issuance rate, ETH holders being able to stake and earn rewards and all development power focused on the new chain.
+The roadmap and community consensus is very clear when it comes to wanting to switch to proof of stake. There are active conversations occuring about the logistics and mechanisms of the proof of stake transition but wanting to stay on proof of work is not something actively discussed. At any point, a user can attempt to fork or stay on the current proof of work chain but the incentive will be very little once proof of stake is live because the users of the network gain many benefits from Eth 2.0 chain which will include proof of stake. These include: block finality, scalability, lower issuance rate, ETH holders being able to stake and earn rewards and all development power focused on the new chain.
 
 ### 12. What capability does the Ethereum Network have to support the continued development and increasing use of smart contracts?
 
